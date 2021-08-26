@@ -1,2 +1,4 @@
 #Questão 2
-![alt text](https://github.com/mateusbatista4/mc536/lab01/images/pg.png?raw=true)
+
+
+<img src="https://github.com/mateusbatista4/mc536/blob/master/lab01/images/pg.png" width="200"> 
