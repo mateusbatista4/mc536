@@ -13,7 +13,7 @@
 
 ## Resumo
 
-Tal artigo tem como principal objetivo descrever o processo de criação de um DataSet baseado nos dados das eleições brasileiras desde 1933. Tal objetivo surge pelo fato dos dados fornecidos pelo TSE (Tribunal Superior Eleitoral) não estarem devidamente organizados e não apresentarem um padrão. Essa inconsistência é um problema pois inviabiliza a análise dos dados, que poderia trazer importantes insights sobre a história eleitoral brasileira.
+O artigo tem como principal objetivo descrever o processo de criação de um DataSet baseado nos dados das eleições brasileiras desde 1933. Tal objetivo surge pelo fato dos dados fornecidos pelo TSE (Tribunal Superior Eleitoral) não estarem devidamente organizados e não apresentarem um padrão. Essa inconsistência é um problema pois inviabiliza a análise dos dados, que poderia trazer importantes insights sobre a história eleitoral brasileira.
 
 
 ## Perguntas de pesquisa/análises
