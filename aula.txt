@@ -1,0 +1,15 @@
+1)
+
+    a- π nome_da_mae (Pessoa)
+
+    b-  π nome_da_mae (σ ano_nascimento <= 2009 (Pessoa))
+
+2)
+ 
+    a- (π nomePopular (virus1)) ∪ (π nomePopular (virus2)) 
+    b- (π nomePopular (virus1)) ∩ (π nomePopular (virus2)) 
+    c- ( (π nomeCientifico (virus1)) - (π nomeCientifico (virus2)) ) ∪ ( (π nomeCientifico (virus2)) - (π nomeCientifico (virus1) ) ) 
+
+3) 
+   π nomePopular (medicamento ⨝ medicamento.compostoAtivo == X virus)
+    
