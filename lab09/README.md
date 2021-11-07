@@ -6,11 +6,11 @@
 
 Classes:
 
-![images/classes.png](images/classes.png)
+![images/classes.png](images/classes.jpeg)
 
 Exemplo de instância para calcitonina e nefrolitíase (pedras nos rins):
 
-![images/objetos.png](images/objetos.png)
+![images/objetos.png](images/objetos.jpeg)
 
 ## Perguntas de pesquisa ou queries
 
